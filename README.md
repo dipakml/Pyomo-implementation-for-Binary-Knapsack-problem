@@ -1,12 +1,11 @@
 ##  Pyomo implementation for Binary Knapsack problem
 
-<img target="_blank" src="https://github.com/dipakml/Linear-Programming-using-Gurobi-Optimization-Python-s-inbuilt-Scipy-/blob/master/gurobi.jpeg" width=800>
+<img target="_blank" src="https://github.com/dipakml/Pyomo-implementation-for-Binary-Knapsack-problem/blob/master/pyomo.png" width=600>
 
 ### Table of Content
-  * [Overview of Linear Programming](#overview)
+  * [Pyomo Overview](#overview)
   * [Problem Statement](#problem-statement)
-  * [Solving using Python's inbulit Scipy](#using-scipy)
-  * [Solving Using Gurobi Optimization](#gurobi-optimization)
+  * [Solution](#solution)
 
 
 
@@ -20,24 +19,7 @@ Pyomo is a Python-based open-source software package that supports a diverse set
 
 
 
-
-
 ### Solution
-The Gurobi Optimizer is a state-of-the-art solver for mathematical programming. The solvers in the Gurobi Optimizer were designed from the ground up to exploit modern architectures and multicore processors, using the most advanced implementations of the latest algorithms.
-
-First we need to install gurobipy using pip install:
-Open cmd & type pip install gurobipy
-OR
-In Jupyter notebook type !pip install gurobipy
-
-
-
-Next steps:
-- Create a new model
-- Create variables
-- Set objective function
-- Add constraints
-- Solve
 
 
 
