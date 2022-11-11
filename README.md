@@ -16,16 +16,17 @@ Pyomo is a Python-based open-source software package that supports a diverse set
 
 ###  Problem Statement
 
-
+<img target="_blank" src="https://github.com/dipakml/Pyomo-implementation-for-Binary-Knapsack-problem/blob/master/problem_statement.PNG" width=800>
 
 
 ### Solution
+Code Snippet:
 
-
+<img target="_blank" src="https://github.com/dipakml/Pyomo-implementation-for-Binary-Knapsack-problem/blob/master/code_snippet.PNG" width=800>
 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Concrete-Compressive-Strength/blob/master/Logo_Images/streamlit.png" width=160>
+<img target="_blank" src="https://github.com/dipakml/Pyomo-implementation-for-Binary-Knapsack-problem/blob/master/pyomo.png" width=160>
 
 
